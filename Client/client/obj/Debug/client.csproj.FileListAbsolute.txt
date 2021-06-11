@@ -1,0 +1,18 @@
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\bin\Debug\client.exe.config
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\bin\Debug\client.exe
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\bin\Debug\client.pdb
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.exe
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\client\client\obj\Debug\client.pdb
+C:\Users\omer_\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.exe
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\omer_\Desktop\client\client\bin\Debug\client.exe
+C:\Users\omer_\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.Form1.resources
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\omer_\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache

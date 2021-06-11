@@ -1,0 +1,18 @@
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\bin\Debug\server.exe.config
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\bin\Debug\server.exe
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\bin\Debug\server.pdb
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\obj\Debug\server.exe
+c:\users\taygu\onedrive\belgeler\visual studio 2012\Projects\server\server\obj\Debug\server.pdb
+C:\Users\omer_\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\omer_\Desktop\server\server\obj\Debug\server.exe
+C:\Users\omer_\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\omer_\Desktop\server\server\bin\Debug\server.exe
+C:\Users\omer_\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\omer_\Desktop\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Desktop\WebPolice\server\bin\Debug\server.exe.config
+C:\Users\omer_\Desktop\WebPolice\server\obj\Debug\server.exe
+C:\Users\omer_\Desktop\WebPolice\server\obj\Debug\server.pdb
+C:\Users\omer_\Desktop\WebPolice\server\bin\Debug\server.exe
+C:\Users\omer_\Desktop\WebPolice\server\bin\Debug\server.pdb
+C:\Users\omer_\Desktop\WebPolice\server\obj\Debug\server.csprojResolveAssemblyReference.cache
